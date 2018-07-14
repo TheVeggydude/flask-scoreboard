@@ -1,3 +1,5 @@
+1
+Binary numbers
 When thinking of binary sequences,how many n-digit binary numbers will not have two 1 bits next to each other?
 for example we give the binary numbers for n=3:
 

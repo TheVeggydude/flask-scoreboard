@@ -1,3 +1,5 @@
+9
+Mergin'
 We define jfdsklafldfjklasdjl as follows:
 We take string A. We define reverse(A) as the reverse of A (yes really). We define shuffle(A) as any random ordering of the characters in A. merge(B, C) is the merging of B and C with the only contraint being that the order of the characters in both string is kept.
 

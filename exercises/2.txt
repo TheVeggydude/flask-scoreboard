@@ -1,3 +1,5 @@
+2
+BLAMming numbers
 Ramgo, the BLAMming gun toting action hero, is out to destroy the evil armies of Absurdistan before they can attack America! However, he is too dumb to provide a steady supply of BLAMming Numbers. He's counting on you to calculate these for him, instead, so he can save America and take all the glory.
 
 These BLAMming Numbers are very special numbers used to create ammo for the BLAMming gun. You can calculate them as follows:

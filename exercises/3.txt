@@ -1,3 +1,5 @@
+3
+THE END
 An army of giant killer robot dragon zombies from outer space riding nuclear killer whales from Absurdistan are aiding the Galactic Empire in building a station that shoots gamma rays at the sun! This situation is so incredibly absurd that by adding a program that counts digits the entire thing will become so unbelievable, it will cease to exist! It's our only hope!
 
 Consider the digit d=1. After we write down each number n, we will update the number of ones that have occurred and call this number f(n,1). The first values for f(n,1), then, are as follows:

@@ -1,5 +1,5 @@
+5
 Boring Digits
-
 The princess has been taken by an evil dragon! You traveled across the kingdom in order to save her, but the dragon is way too strong for you to defeat. There is a solution, however: the dragon thinks maths is really really boring and will fall asleep if you tell it Boring Digits.
 
 A Boring Digit of a positive integer x is defined as:

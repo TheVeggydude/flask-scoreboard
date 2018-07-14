@@ -1,3 +1,5 @@
+7
+Termineermeneer
 A mad scientist has created an army of giant killer robots! There is an Easter Egg in their programming, though. Before they start attacking, if you feed them some special palindromes, their logic will short out and they will fall apart! We told you he is mad.
 
 These special robot killing palindromes have the following property:
