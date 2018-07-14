@@ -10,3 +10,4 @@ migrate = Migrate(flask_app, db)
 
 from scoreboard import routes
 from database import *
+from .commands import *
