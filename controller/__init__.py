@@ -1,0 +1,1 @@
+from .view_exercises import view_exercises
