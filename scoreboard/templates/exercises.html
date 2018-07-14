@@ -5,10 +5,17 @@
     {% if  exercises %}
 
         {% for exercise in exercises %}
-            <div>
+
+            {% if exercise.index % 2 == 0 %}
+                <div class="even">
+
+            {% else %}
+                <div class="uneven">
+            {% endif %}
+
                 <h3> {{ exercise.title }} </h3>
                 <p>
-                    {{ exercise.text }}
+                    {{ exercise.body }}
                 </p>
             </div>
         {% endfor %}
