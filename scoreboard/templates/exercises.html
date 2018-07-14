@@ -15,19 +15,18 @@
     {% if  exercises %}
 
         {% for exercise in exercises %}
+            {% if exercise.visible %}
+                {% if exercise.index % 2 == 0 %}
+                    <div class="even">
 
-            {% if exercise.index % 2 == 0 %}
-                <div class="even">
+                {% else %}
+                    <div class="odd">
+                {% endif %}
 
-            {% else %}
-                <div class="odd">
+                    <h3> {{ exercise.title }} </h3>
+                        {{exercise.body | safe}}
+                </div>
             {% endif %}
-
-                <h3> {{ exercise.title }} </h3>
-                <p>
-                    {{ exercise.body }}
-                </p>
-            </div>
         {% endfor %}
 
     {% else %}
