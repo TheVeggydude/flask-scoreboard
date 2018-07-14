@@ -16,11 +16,18 @@ def seed_exercises(directory):
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
 
-            file = open(os.path.join(directory, filename), 'r')
-            exercise = Exercise(title=filename, index=1, body=file.read(), visible=True)
+            with open(os.path.join(directory, filename), 'r') as file:
+                body = file.readlines()
+                index = body[0]
+                title = body[1]
 
+                text = ""
+                for line in body[2:]:
+                    text += line
+
+            exercise = Exercise(title=title, index=int(index), body=text, visible=True)
             db.session.add(exercise)
 
     db.session.commit()
 
-    print(str(len(Exercise.query.all())) + " items in exercise db")
+    print(str(len(Exercise.query.all())) + " items now in exercise db")
