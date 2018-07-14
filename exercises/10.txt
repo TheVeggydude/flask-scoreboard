@@ -1,0 +1,63 @@
+The princess has been taken by an evil dragon! You traveled across the kingdom in order to save her, but the dragon is way too strong for you to defeat. There is a solution, however: the dragon thinks maths is really really boring and will fall asleep if you tell it <<><><><><>
+
+
+The town has been overrun by a zombie horde! After three weeks, a cure was found that will also conveniently restore everyone to perfect health. The cure is a healthy injection of <<<><><><>>>!
+
+
+A mad scientist has created an army of giant killer robots! There is a bug in their programming, though. Before they start attacking, if you feed them <><>><<><><><><><><><>, their logic will short out and they will fall apart!
+
+
+Ramgo, the <<>><><><>-gun toting action hero, is out to destroy the evil armies of Absurdistan before they can attack America! However, he is too dumb to provide a steady supply of <>><><><><>. He's counting on you to calculate these for him, instead, so he can save America and take all the glory.
+
+
+A massive alien invasion is approaching our planet and the only thing that can 
+save us is a program to calculate space digits for large numbers real quick.
+Somehow.
+
+
+Dolphins have figured out a way to harness nuclear energy, and have created atomic killer whales! The only way to appease our new aquatic overlords is to supply them with a great amount of <><><>><<>>< fish. Luckily, those can easily be bred as long as you whisper <<><>>><>< in their fishy ears.
+...Do fish even have ears? Well, whatever.
+
+
+A long time ago in a galaxy far, far away...
+
+It is a period of civil war.
+Rebel spaceships, striking
+from a hidden base, have won
+their first victory against
+the evil Galactic Empire.
+
+During the battle, Rebel 
+spies managed to steal secret 
+plans to the Empire's
+ultimate weapon, the <><><><>
+STAR, an armored space
+station with enough power to
+destroy an entire planet.
+
+Pursued by the Empire's
+sinister agents, Princess
+JW races home aboard her
+starship, custodian of the
+stolen <><>><><> that can
+save her people and restore
+freedom to the galaxy.....
+
+
+The sun is about to go supernova! The evil mastermind Dr. Pulsar is sending gamma waves straight into the sun, causing it to swell and swell...
+Luckily, we have implanted a control chip in his cat, who he always strokes while it sits in his lap. If it hears a series of <><><><><> numbers, it will activate, scratching Dr. Pulsar's face who will then conveniently accidentally hit the base's self-destruct button.
+There is no possible way this will go wrong.
+
+
+An army of giant killer robot dragon zombies from outer space riding nuclear killer whales from Absurdistan are aiding the Galactic Empire in building a station that shoots gamma rays at the sun! This situation is so incredibly absurd that by adding <><><><><> the entire thing will become so unbelievable, it will cease to exist! It's our only hope!
+
+
+//Bab, think of something that's somehow even stupider than the rest.
+//Also, it has to include <><><><>, which is calculated by:
+
+Given an array of size N, you have to print the size of the largest contiguous subarray such that the least common multiple of all integers in that subarray is equal to the product of all integers in that subarray. A single element is not considered a subarray.
+
+Should no such subarray exist, output -1.
+
+So, for example '2 2 3 4' should output '2'
+

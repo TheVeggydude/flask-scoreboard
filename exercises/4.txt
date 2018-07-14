@@ -1,0 +1,16 @@
+The town has been overrun by a zombie horde! After three weeks, a cure was found that will also conveniently restore everyone to perfect health! The cure is a healthy injection of some not-so-complicated molecule. However most of our computer people around fell victim to the horde pretty quickly (being the nerds in a horror story) so our scientists need your help to quickly compute elements needed for the molecule.
+
+The input will be the chemical formula for our cure molecule in one line. You should then output the number of elements for each element in this molecule. 
+
+Example:
+
+Input:
+C4H8(ONa)2
+
+Output:
+C: 4
+H: 8
+Na: 2
+O: 2
+
+Note: Remember that an element name can consist of a capital letter (H) or the combination of a capital and a small letter (Na). Also remember that more complex molecules will have brackets, also possibly multiplied by a number.

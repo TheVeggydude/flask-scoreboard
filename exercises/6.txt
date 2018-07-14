@@ -1,0 +1,15 @@
+The sun is about to go supernova! The evil mastermind Dr. Pulsar is sending gamma waves straight into the sun, causing it to swell and swell...
+
+Luckily, we have implanted a control chip in his cat, who he always strokes while it sits in his lap. If it hears a specific number, it will activate, scratching Dr. Pulsar's face who will then (conveniently) accidentally hit the base's self-destruct button.
+
+There is no possible way this will go wrong.
+
+We are looking for the number of distinct factors of the product of these numbers.
+
+So for example:
+
+'3 5 7' should result in '8'
+'2 4 6' should result in '10'
+'5 5' should result in '3'
+
+Each element in the input sequence is smaller than 1000000.

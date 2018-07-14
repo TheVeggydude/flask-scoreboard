@@ -1,0 +1,31 @@
+We define jfdsklafldfjklasdjl as follows:
+We take string A. We define reverse(A) as the reverse of A (yes really). We define shuffle(A) as any random ordering of the characters in A. merge(B, C) is the merging of B and C with the only contraint being that the order of the characters in both string is kept.
+
+We define I as merge(reverse(A), shuffle(A)). For a given input I, recover the A with the smallest lexicographic ordering (so if you can choose between ba and ab, choose ab)
+
+Input:
+baabbb
+
+Output:
+bab
+
+Explanation:
+Split as follows:
+b ab
+ a  bb
+Reverse the former to obtain bab
+Shuffle the other to obtain bab
+
+Input:
+bananaananab
+
+Output:
+aaannb
+
+Explanation:
+Split as follows:
+bananaananab
+b n naa   a
+ a a   nan b
+Reverse the former to obtain aaannb
+Shuffle the other to obtain aaannb

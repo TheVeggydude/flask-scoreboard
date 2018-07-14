@@ -1,0 +1,26 @@
+Boring Digits
+
+The princess has been taken by an evil dragon! You traveled across the kingdom in order to save her, but the dragon is way too strong for you to defeat. There is a solution, however: the dragon thinks maths is really really boring and will fall asleep if you tell it Boring Digits.
+
+A Boring Digit of a positive integer x is defined as:
+  - x                                          x < 10 
+  - Boring Digit of sum of all digits in x     otherwise
+
+Given inputs n and k:
+  - 1 <= n <= 2^31
+  - 1 <= k <= 2^31
+
+Find the Boring Digit of p which equals n concatenated k times.
+
+Example: 
+ n = 143
+ k = 3
+
+ p = 143143143
+ boring_digit(p)
+ = boring_digit(143143143)
+ = boring_digit(1+4+3+1+4+3+1+4+3)
+ = boring_digit(24)
+ = boring_digit(2+4)
+ = boring_digit(6)
+ = 6

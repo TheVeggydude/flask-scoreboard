@@ -1,0 +1,14 @@
+A mad scientist has created an army of giant killer robots! There is an Easter Egg in their programming, though. Before they start attacking, if you feed them some special palindromes, their logic will short out and they will fall apart! We told you he is mad.
+
+These special robot killing palindromes have the following property:
+  For a digit n, the palindrome is the largest number that has two factors both of string length n.
+
+Constraints:
+  1 <= n <= 6
+
+Example: 
+  Input: 2
+  Output: 9009
+
+Explanation:
+  9009 is a palindrome with factors 99 and 91. 

@@ -1,0 +1,20 @@
+Ramgo, the BLAMming gun toting action hero, is out to destroy the evil armies of Absurdistan before they can attack America! However, he is too dumb to provide a steady supply of BLAMming Numbers. He's counting on you to calculate these for him, instead, so he can save America and take all the glory.
+
+These BLAMming Numbers are very special numbers used to create ammo for the BLAMming gun. You can calculate them as follows:
+
+Take all the prime factors of a number. If none of these factors are larger than N, the number is an N mm BLAMming Number.
+
+The input will be two numbers, seperated by a space. The first gives the size of the BLAMming Numbers wanted, the second gives the amount of BLAMming Numbers.
+The output is a space separated list of BLAMming Numbers, until the amount specified is reached.
+
+Input:
+5 15
+
+Output:
+1 2 3 4 5 6 8 9 10 12 15 16 18 20 24
+
+Input:
+2 10
+
+Output:
+1 2 4 8 16 32 64 128 256 512

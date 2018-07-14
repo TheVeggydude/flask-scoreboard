@@ -1,0 +1,17 @@
+The princess has been taken by an evil dragon! You traveled across the kingdom in order to save her, but the dragon is way too strong for you to defeat. There is a solution, however: the dragon has self esteem problems about maths since high school and will run away crying if you beat it in solving a maths problem.
+
+Luckily, we have just the problem. 
+
+Given an integer X, find the number of ways X can be expressed as the sum of Nth power of unique natural numbers. Sounds simple eh?
+
+Constraints: 1 <= X <= 1000 and 2<= N <= 10
+
+Example:
+
+Input: 100 2
+Output: 3
+
+Explanation:
+
+X = 100 and N = 2 in this case.
+100 can be expressed as 10^2 = 6^2 + 8^2 = 1^2 + 3^2 + 4^2 + 5^2 + 7^2
