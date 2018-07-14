@@ -1,9 +1,9 @@
 1
 Binary numbers
-When thinking of binary sequences,how many n-digit binary numbers will not have two 1 bits next to each other?
-for example we give the binary numbers for n=3:
+<p>When thinking of binary sequences,how many n-digit binary numbers will not have two 1 bits next to each other?
+for example we give the binary numbers for n=3:</p>
 
 
-000 001 010 011 100 101 110 111
+<code>000 001 010 011 100 101 110 111</code>
 
-Here five of the eight possibilities meet the criteria, so the answer for n=3 would be 5. what is the answer for n= 4, 2 , 6, 100.
+<p>Here five of the eight possibilities meet the criteria, so the answer for n=3 would be 5. what is the answer for n= 4, 2 , 6, 100.</p>
