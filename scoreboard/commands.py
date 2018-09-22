@@ -31,3 +31,12 @@ def seed_exercises(directory):
     db.session.commit()
 
     print(str(len(Exercise.query.all())) + " items now in exercise db")
+
+
+@flask_app.cli.command('toggle_exercises')
+@click.argument('index')
+def toggle_exercise(index):
+    """
+    Toggles the visibility of the exercise at the index supplied
+    :param index: integer
+    """
